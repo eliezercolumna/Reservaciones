@@ -1,0 +1,43 @@
+drop database gestor_cita;
+create database gestor_cita;
+use gestor_cita;
+
+create table visitante
+(
+id_visitante int(15) not null auto_increment,
+nombre varchar(15),
+apellido varchar(15),
+documento varchar(32),
+tipo_documento varchar(15),
+telefono varchar(15),
+tipo_telefono varchar(15),
+persona varchar(15),
+fecha varchar(50),
+primary key (id_visitante)
+);
+
+create table dia
+(
+id_dia int(15) not null auto_increment,
+nombre_dia varchar(15),
+primary key (id_dia)
+);
+
+create table disponibilidad
+(
+
+id_dia int(15) not null,
+
+foreign key (id_dia) references dia (id_dia) on update cascade on delete cascade
+);
+
+create table cita
+(
+id_cita int(15) not null auto_increment,
+id_visitante int(15) not null,
+creado datetime,
+estado varchar(15),
+fecha_reservacion varchar(15),
+foreign key (id_visitante) references visitante (id_visitante) on update cascade on delete cascade,
+primary key (id_cita)
+);

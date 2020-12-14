@@ -1,0 +1,206 @@
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Gestor de citas.exe.config
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Gestor de citas.exe
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Gestor de citas.pdb
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Google.Protobuf.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Zstandard.Net.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Renci.SshNet.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\System.Memory.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\System.Buffers.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\MySql.Data.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Google.Protobuf.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\Renci.SshNet.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\System.Memory.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\System.Buffers.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csprojAssemblyReference.cache
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.exe.config
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form1.resources
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form2.resources
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form3.resources
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form4.resources
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Properties.Resources.resources
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csproj.GenerateResource.cache
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csproj.CoreCompileInputs.cache
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csproj.CopyComplete
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.exe
+C:\Users\Ray Alvarez\Documents\Visual Studio\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Google.Protobuf.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Zstandard.Net.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Renci.SshNet.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\System.Memory.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\System.Buffers.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\MySql.Data.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Google.Protobuf.pdb
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Google.Protobuf.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\Renci.SshNet.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\System.Memory.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\System.Buffers.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csprojAssemblyReference.cache
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form1.resources
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form2.resources
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form3.resources
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Form4.resources
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor_de_citas.Properties.Resources.resources
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csproj.GenerateResource.cache
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.csproj.CopyComplete
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Gestor de citas\Gestor de citas\obj\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Zstandard.Net.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\MySql.Data.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.pdb
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csprojAssemblyReference.cache
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Form1.resources
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Form2.resources
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Properties.Resources.resources
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.GenerateResource.cache
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CopyComplete
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.pdb
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe.config
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.pdb
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Zstandard.Net.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\MySql.Data.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csprojAssemblyReference.cache
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe.config
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Form1.resources
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Form2.resources
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Properties.Resources.resources
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.GenerateResource.cache
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CoreCompileInputs.cache
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CopyComplete
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe
+C:\Users\Ray Alvarez\Desktop\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Zstandard.Net.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\MySql.Data.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.pdb
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csprojAssemblyReference.cache
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Form1.resources
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Properties.Resources.resources
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.GenerateResource.cache
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CopyComplete
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Nueva carpeta (3)\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Gestor de citas.pdb
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Zstandard.Net.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\MySql.Data.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.pdb
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Google.Protobuf.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\Renci.SshNet.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Memory.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Buffers.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csprojAssemblyReference.cache
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe.config
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Form1.resources
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor_de_citas.Properties.Resources.resources
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.GenerateResource.cache
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.csproj.CopyComplete
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.exe
+C:\Users\eliez\Desktop\Nueva carpeta (3) - copia\Gestor de citas DISEÑO MIO PERSONAL\Gestor de citas\obj\Debug\Gestor de citas.pdb
